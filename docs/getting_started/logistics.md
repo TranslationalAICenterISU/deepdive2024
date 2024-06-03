@@ -2,8 +2,11 @@
 
 ## Attendance
 **Dates:** June 4-7, 2024
+
 **Time:** 8:00 am – 5:00 pm
+
 **Location:** 1304 Howe Hall, Iowa State University
+
 **Delivery Mode:** In-person
 
 
