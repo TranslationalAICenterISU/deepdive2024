@@ -1,7 +1,7 @@
 
-# TRAC TRAIN 2022
+# TRAC TRAIN 2024
 
-MKDocs website for TRAC TRAIN 2022
+MKDocs website for TRAC TRAIN 2024
 
 # Development
 
