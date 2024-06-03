@@ -7,7 +7,7 @@
 
 Hi all! Welcome to TrAC Bootcamp on **A Deep Dive into AI**. 
 
-This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/){target=_blank}, [COALESCE](https://coalesce.me.iastate.edu/){target=_blank}, [Vocareum](https://www.vocareum.com/){target=_blank} resources through [NAIRR](https://nairrpilot.org/){target=_blank}, [JetStream2](https://jetstream-cloud.org/){target=_blank}. 
+This tutorial is possible because of the resources from [AIIRA](https://aiira.iastate.edu/){target=_blank}, [COALESCE](https://coalesce.me.iastate.edu/){target=_blank}, [Vocareum](https://www.vocareum.com/){target=_blank} resources through [NAIRR](https://nairrpilot.org/){target=_blank}, [JetStream2](https://jetstream-cloud.org/){target=_blank}. 
 
 <br></br>
 
