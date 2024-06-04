@@ -4,7 +4,7 @@
 
 | Day (time) | Concept | Notes |
 |------|---------|-------|
-| Tuesday (8AM - 11AM) | Intro to Machine Learning/AI | [notebooks]()  [slides](https://iastate.box.com/s/1hnp7cr5fq9d61zfq9bprohj5fs4lp48)|
+| Tuesday (8AM - 11AM) | Intro to Machine Learning/AI | [notebooks](https://colab.research.google.com/drive/1JxLirVyrr_yVwNjwmhBQrrKKUIdDIGPz?usp=sharing)  [slides](https://iastate.box.com/s/1hnp7cr5fq9d61zfq9bprohj5fs4lp48)|
 | Tuesday (11AM - 1PM) | Lunch Break | |
 | Tuesday (1PM - 5PM) | Python Programming | [notebooks]() [slides]() |
 | Wednesday (8AM - 11AM) | Data Analytics & Visualization | [notebooks]()  [slides]()|
