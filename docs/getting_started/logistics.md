@@ -22,3 +22,7 @@ We will be providing access to all these above-mentioned resources when needed. 
 
 ## Catering
 We will be providing some coffee and snacks for the bootcamp. You will have to arrange lunch on your own.
+
+
+## Logistics
+[https://hackmd.io/nJNgZ8L2QoatmO--lwLdGA](https://hackmd.io/nJNgZ8L2QoatmO--lwLdGA)
